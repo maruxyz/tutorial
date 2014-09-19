@@ -2,5 +2,5 @@ sample3.txt
 きちんと反映されるかな？
 バイナリだったからわかりにくかったのかな？
 
-branch5 add message
+branch5 add message add 2nd message
 branch6
