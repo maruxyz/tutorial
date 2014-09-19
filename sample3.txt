@@ -3,3 +3,4 @@ sample3.txt
 バイナリだったからわかりにくかったのかな？
 
 branch5
+branch6
